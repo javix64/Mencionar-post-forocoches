@@ -1,0 +1,544 @@
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610823669371	Marionette	INFO	Listening on port 41489
+1610823669484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580018,name=PHal::Msg_UnlockScreenOrientation) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610823691248	Marionette	INFO	Stopped listening on port 41489
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610887095553	Marionette	INFO	Listening on port 44395
+1610887095619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610887110543	Marionette	INFO	Stopped listening on port 44395
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610887415833	Marionette	INFO	Listening on port 34821
+1610887415893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610887431896	Marionette	INFO	Stopped listening on port 34821
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610888737720	Marionette	INFO	Listening on port 33109
+1610888737816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610888742509	Marionette	INFO	Stopped listening on port 33109
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610888749809	Marionette	INFO	Listening on port 39353
+1610888749917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+1610888798935	Marionette	INFO	Listening on port 34241
+1610888798970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+1610888904887	Marionette	INFO	Listening on port 44153
+1610888904963	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610888962660	Marionette	INFO	Listening on port 39701
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+1610888962764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+1610888969478	Marionette	INFO	Stopped listening on port 39701
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610889033702	Marionette	INFO	Listening on port 40047
+1610889033750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+1610889160239	Marionette	INFO	Listening on port 35625
+1610889160323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610889269265	Marionette	INFO	Stopped listening on port 35625
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+1610889269964	Marionette	INFO	Listening on port 46607
+1610889270112	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1610889271298	Marionette	INFO	Stopped listening on port 40047
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+1610889273634	Marionette	INFO	Stopped listening on port 44153
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+1610889355268	Marionette	INFO	Listening on port 37149
+1610889355383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.adtrue.com/rtb/passback.js, line 9: SecurityError: Permission denied to access property "toppUrl" on cross-origin object
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://creatives.sunmedia.tv/vpaid_ssp_display/prebidadpjs.js?v=2020122101, line 3: NS_ERROR_NOT_INITIALIZED: 
